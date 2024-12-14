@@ -19,10 +19,13 @@ This repository contains the following:
    - `RealEstatePricePrediction.ipynb`: The notebook for cleaning the data and training the model.
 
 3. **Model**
-   - `model.md`: Contains a link to download a trained model. The model can then be loaded in to the notebook and doesn't need to be trained again.
+   - `Model.md`: Contains a link to download a trained model. The model can then be loaded in to the notebook and doesn't need to be trained again.
   
 4. **README.md**
    - Instructions for replicating the analysis and an overview of the repository structure.
+
+5. **Scraper.md**
+   - Link to the scrapers repository.
   
 ## How to Replicate the Analysis
 
