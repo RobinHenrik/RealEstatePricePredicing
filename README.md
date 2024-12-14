@@ -27,6 +27,9 @@ This repository contains the following:
 5. **Scraper.md**
    - Link to the scrapers repository.
   
+6. **Report**
+   - `E6_Report.pdf`: business understanding, data understanding and planning report.
+  
 ## How to Replicate the Analysis
 
 Open the provided notebook in a Jupyter environment and run it step by step.
