@@ -30,6 +30,9 @@ This repository contains the following:
 6. **Report**
    - `E6_Report.pdf`: business understanding, data understanding and planning report.
   
+7. **Poster**
+   - `poster.pdf`: A poster about our project.
+  
 ## How to Replicate the Analysis
 
 Open the provided notebook in a Jupyter environment and run it step by step.
